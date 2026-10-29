@@ -1,0 +1,6 @@
+{
+  "name": "Zyvox AI Studio",
+  "description": "Professional CapCut-style video editing platform with multi-track timeline, effects, trimming, text overlays, audio mixer, and AI-powered creative tools.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}

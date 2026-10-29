@@ -1,0 +1,17 @@
+{
+  "name": "Zyvox AI Studio",
+  "short_name": "Zyvox",
+  "start_url": "/",
+  "display": "standalone",
+  "background_color": "#08090D",
+  "theme_color": "#8B5CF6",
+  "orientation": "any",
+  "description": "Professional CapCut-Style Video Editor for Web and Android with AI storyboards, timeline trimming, filters and export.",
+  "icons": [
+    {
+      "src": "data:image/svg+xml,<svg xmlns='http://www.w3.org/2000/svg' viewBox='0 0 100 100'><rect width='100' height='100' rx='20' fill='%238B5CF6'/><polygon points='38,30 75,50 38,70' fill='%2322D3EE'/></svg>",
+      "sizes": "192x192 512x512",
+      "type": "image/svg+xml"
+    }
+  ]
+}
